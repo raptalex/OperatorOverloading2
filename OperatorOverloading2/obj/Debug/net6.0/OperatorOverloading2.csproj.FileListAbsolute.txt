@@ -1,0 +1,15 @@
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\bin\Debug\net6.0\OperatorOverloading2.exe
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\bin\Debug\net6.0\OperatorOverloading2.deps.json
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\bin\Debug\net6.0\OperatorOverloading2.runtimeconfig.json
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\bin\Debug\net6.0\OperatorOverloading2.dll
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\bin\Debug\net6.0\OperatorOverloading2.pdb
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.csproj.AssemblyReference.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.AssemblyInfoInputs.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.AssemblyInfo.cs
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.csproj.CoreCompileInputs.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.dll
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\refint\OperatorOverloading2.dll
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.pdb
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\OperatorOverloading2.genruntimeconfig.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloading2\OperatorOverloading2\obj\Debug\net6.0\ref\OperatorOverloading2.dll
